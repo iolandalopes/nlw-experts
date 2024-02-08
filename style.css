@@ -122,7 +122,7 @@ input:checked::before {
   flex-shrink: 0;
 }
 
-#asserts {
+#rigthtAnsewers {
   text-align: center;
   background-color: #A3E635;
 
